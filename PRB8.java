@@ -1,3 +1,8 @@
+/*
+8.	Write a C program to remove 3 or more consecutive characters from a string, repeat 
+until there are no more 
+Ex: MNHHHHNNM => MNNNM => MM
+*/
 public class PRB {
     public static boolean check(String check){
         int cnt =1;
