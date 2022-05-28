@@ -1,3 +1,6 @@
+/*
+15.	Program to Sort first half in ascending order and second half in descending order in an array
+*/
 import java.util.Arrays;
 
 public class PRB15 {
